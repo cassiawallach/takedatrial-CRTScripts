@@ -8,7 +8,6 @@ Default Tags         dev1
 
 *** Test Cases ***
 Bicycle Object Test
-@Tags dev1
     Home
     LaunchApp        Bicycles
     ClickText        New
